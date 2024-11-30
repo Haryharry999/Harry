@@ -1,0 +1,16 @@
+1,John Doe,Charlie Davis;Hannah Harris,Mary Johnson,Emma Brown,123 Main St,MONTHLY,01/01/2023,1000.00,NEW
+2,Jane Smith,Diane Evans,Ian Lewis;James Williams,Michael Davis,124 Main St,MONTHLY,15/02/2023,5000.00,ACTIVE
+3,Bob Johnson,Edward Wilson;Julia Walker,Patricia Brown,Jessica Garcia,125 Main St,MONTHLY,01/03/2023,1500.00,NEW
+4,Alice Brown,Francesca Moore,Kevin Allen;Robert Jones,William Martinez,126 Main St,MONTHLY,15/04/2023,6000.00,ACTIVE
+5,Charlie Davis,George Taylor,Lisa Scott;Linda Smith,Linda Robinson,127 Main St,MONTHLY,01/05/2023,2000.00,NEW
+6,Michael Adams,Joseph Anderson,Daniel White,David Martinez,128 Main St,MONTHLY,15/06/2023,7000.00,ACTIVE
+7,Edward Wilson,Susan Miller,Nancy Harris,Barbara Garcia,129 Main St,MONTHLY,01/07/2023,2500.00,NEW
+8,George Taylor,Paul Clark,Carol Robinson,William Wilson,130 Main St,MONTHLY,15/08/2023,8000.00,ACTIVE
+9,Julia Walker,Mary Johnson;James Williams,Joseph Walker,Richard Lee,131 Main St,MONTHLY,01/09/2023,3000.00,NEW
+10,Lisa Scott,Patricia Brown,Robert Jones,Joseph Walker,132 Main St,MONTHLY,15/10/2023,9000.00,ACTIVE
+11,Kevin Allen,Linda Smith;David Martinez,Patricia Hall,Richard Lee,133 Main St,MONTHLY,01/11/2023,3500.00,NEW
+12,Francesca Moore,Barbara Garcia,William Wilson,John Allen,134 Main St,MONTHLY,15/12/2023,10000.00,ACTIVE
+13,Hannah Harris,Susan Miller,Mary Johnson;Nancy Harris,Elizabeth Young,135 Main St,MONTHLY,01/01/2024,4000.00,NEW
+14,Charlie Davis,Paul Clark,Carol Robinson,James King,136 Main St,MONTHLY,15/02/2024,11000.00,ACTIVE
+15,Michael Adams,Karen Thomas,Daniel White,Robert Scott,137 Main St,MONTHLY,01/03/2024,4500.00,NEW
+
